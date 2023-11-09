@@ -67,8 +67,19 @@ Graph Representation in Fully EToD aims to enhance the contextualization of enti
 
 ## Benchmark
 
-## 
+## Modularly EToD on MultiWOZ2.0 and MultiWOZ2.1
 
+[绘制类似论文 Table 1 的表，数据可以从assets/texts/multiwoz20.csv 和 assets/texts/multiwoz21.csv转化方便]
+
+## Modularly EToD on CamRest6762
+
+[绘制类似论文 Table 2 的表，数据assets/texts/camrest.csv]
+
+## Fully EToD on SMD
+[绘制类似论文 Table 4 的表，数据assets/texts/smd.csv]
+
+## Fully EToD on MultiWOZ2.1
+[绘制类似论文 Table 4 的表，数据assets/texts/multiwoz21e2e.csv]
 
 ## Citation
 If you find this repository useful, please cite our paper:
