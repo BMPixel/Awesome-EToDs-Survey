@@ -1,0 +1,15 @@
+Model,Time,Type,Paperlink,Codelink,Inform,Success,BLEU,Combined
+MD-Sequicity,2018,Modularly,,,66.4,45.3,15.5,71.4
+SFN+RL,2019,Modularly,,,73.8,58.6,16.9,83
+DAMD,2019,Modularly,,,76.4,60.4,16.6,85
+UniConv,2020,Modularly,,,72.6,62.9,19.8,87.6
+LABES-S2S,2020,Modularly,,,78.1,67.1,18.1,90.7
+SimpleToD,2020,Pretrain,,,85,70.5,15.2,93
+UBAR,2020,Pretrain,,,95.7,81.8,16.5,105.3
+AuGPT,2021,Pretrain,,,83.5,67.3,17.2,92.6
+SOLOIST,2021,Pretrain,,,85.5,72.9,16.5,95.7
+MTToD,2022,Pretrain,,,91,82.1,21,107.5
+PPTOD,2021,Pretrain,,,87.1,79.1,19.2,102.3
+GALAXY,2022,Pretrain,,,95.3,86.2,20,110.8
+SPACE3,2022,Pretrain,He et al., 2022a,,95.3,88.0,19.3,111.0
+BORT,2022,Pretrain,Sun et al., 2022,,93.8,85.8,18.5,108.3

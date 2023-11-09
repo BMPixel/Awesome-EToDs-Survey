@@ -1,0 +1,83 @@
+Title,author,paperlink,codelink,nickname,conference,type,time
+Multi-Grained Knowledge Retrieval for End-to-End Task-Oriented Dialog,Wan et al,https://arxiv.org/pdf/2305.10149.pdf,https://github.com/18907305772/MAKER,MAKER,Arxiv,fully,2023
+Towards Complex Scenarios: Building End-to-End Task-Oriented Dialogue System across Multiple Knowledge Bases,Libo Qin et al,https://doi.org/10.1609/aaai.v37i11.26581,https://github.com/RaleLee/KoK-HAN,KoK-HAN,AAAI,fully,2023
+DialoKG: Knowledge-Structure Aware Task-Oriented Dialogue Generation,Rony et al,https://aclanthology.org/2022.findings-naacl.195.pdf,https://github.com/rashad101/DialoKG ,DialoKG,NAACL,fully,2022
+GraphMemDialog: Optimizing End-to-End Task-Oriented Dialog Systems Using Graph Memory Networks,Wu et al,https://ojs.aaai.org/index.php/AAAI/article/view/21403/21152,,GraphMemDialog,AAAI,fully,2022
+A Hierarchical Memory Model for Task-Oriented Dialogue System,Zeng et al,https://www.jstage.jst.go.jp/article/transinf/E105.D/8/E105.D_2022EDP7001/_article,https://github.com/zengyazy/HM2Seq,HM2Seq,IEICE,fully,2022
+UniDU: Towards A Unified Generative Dialogue Understanding Framework,Zhi Chen et al,https://aclanthology.org/2022.sigdial-1.43,,UniDU,SIGDIAL,fully,2022
+Intention Reasoning Network for Multi-Domain End-to-end Task-Oriented Dialogue,Ma et al,https://aclanthology.org/2021.emnlp-main.174.pdf,,IR-Net,EMNLP,fully,2021
+UniMF: A Unified Framework to Incorporate Multimodal Knowledge Bases into End-to-End Task-Dialogue Systems ,Yang et al,https://www.ijcai.org/proceedings/2021/0548.pdf,https://github.com/ruizhang-ai/MMDialKB,UniMF,IJCAI,fully,2021
+Intention Reasoning Network for Multi-Domain End-to-end Task-Oriented Dialogue,Ma et al,https://aclanthology.org/2021.emnlp-main.174,,IR-Net,EMNLP,fully,2021
+Constraint based Knowledge Base Distillation in End-to-End Task Oriented Dialogs,Raghu et al,https://aclanthology.org/2021.findings-acl.448,https://github.com/dair-iitd/CDNet,CDNet,IJCNLP,fully,2021
+Exploring Auxiliary Reasoning Tasks for Task-oriented Dialog Systems with Meta Cooperative Learning,Qin et al,https://ojs.aaai.org/index.php/AAAI/article/view/17615,https://github.com/siat-nlp/MCL,MCL,AAAI,fully,2021
+Contextualize Knowledge Bases with Transformer for End-to-end Task-Oriented Dialogue Systems ,Gou et al,https://aclanthology.org/2021.emnlp-main.353.pdf,,COMET,EMNLP,fully,2020
+Dual Dynamic Memory Network for End-to-End Multi-turn Task-oriented Dialog Systems ,Wang et al,https://aclanthology.org/2020.coling-main.362.pdf,https://github.com/siat-nlp/ddmn,DDMN,COLING,fully,2020
+Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog,Qin et al,https://aclanthology.org/2020.acl-main.565.pdf,https://github.com/LooperXX/DF-Net,DFNet,ACL,fully,2020
+FG2SEQ: EFFECTIVELY ENCODING KNOWLEDGE FOR END-TO-END TASK-ORIENTED DIALOG ,He et al,https://ieeexplore.ieee.org/document/9053667,https://github.com/scoyer/FG2Seq,FG2Seq,ICASSP ,fully,2020
+GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems ,Yang et al,https://aclanthology.org/2020.emnlp-main.147.pdf,https://github.com/shiquanyang/GraphDialog,GraphDialog,EMNLP,fully,2020
+Learning Knowledge Bases with Parameters for Task-Oriented Dialogue Systems,Madotto et al,https://aclanthology.org/2020.findings-emnlp.215.pdf,https://github.com/HLTCHKUST/ke-dialogue,GPT2KE,EMNLP,fully,2020
+Learning Low-Resource End-To-End Goal-Oriented Dialog for Fast and Reliable System Deployment,Dai et al,https://aclanthology.org/2020.acl-main.57.pdf,,MDS,ACL,fully,2020
+End-to-End Task-Oriented Dialog System Through Template Slot Value Generation,Hong et al,https://www.isca-speech.org/archive/interspeech_2020/hong20b_interspeech.html,,-,InterSpeech,fully,2020
+Amalgamating Knowledge from Two Teachers for Task-oriented Dialogue System with Adversarial Training,He et al,https://aclanthology.org/2020.emnlp-main.281,https://github.com/siat-nlp/TTOS,TTOS,EMNLP,fully,2020
+Disentangling Language and Knowledge in Task-Oriented Dialogs,Raghu et al,https://aclanthology.org/N19-1126/,https://github.com/dair-iitd/BossNet,BossNet,NAACL,fully,2019
+End-to-End latent-variable task-oriented dialogue system with exact log-likelihood optimization ,Xu et al,https://dl.acm.org/doi/abs/10.1007/s11280-019-00688-8,,GPT-Adapter-CopyNet ,WWW,fully,2019
+Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever ,Qin et al,https://aclanthology.org/D19-1013.pdf,https://github.com/yizhen20133868/Retriever-Dialogue,KB-Retriever,EMNLP,fully,2019
+GECOR: An End-to-End Generative Ellipsis and Co-reference Resolution Model for Task-Oriented Dialogue,Quan et al,https://aclanthology.org/D19-1462.pdf,,GECOR,EMNLP,fully,2019
+Global-to-local Memory Pointer Networks for Task-Oriented Dialogue,Wu et al,https://arxiv.org/abs/1901.04713,https://github.com/jasonwu0731/GLMP,GLMP,ICLR,fully,2019
+KB-Transformer: Incorporating Knowledge into End-to-End Task-Oriented Dialog Systems ,E et al,https://ieeexplore.ieee.org/document/9044058,,KB-transformer,SKG,fully,2019
+Learning Personalized End-to-End Goal-Oriented Dialog ,Luo et al,https://aaai.org/ojs/index.php/AAAI/article/view/4654/4532,,PERSONALIZED MEMN2N ,AAAI,fully,2019
+A Working Memory Model for Task-oriented Dialog Response Generation,Chen tal,https://aclanthology.org/P19-1258,,WMM2Seq,ACL,fully,2019
+Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems ,Madotto et al,https://aclanthology.org/P18-1136/,Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems ,Mem2seq,ACL,fully,2018
+Multi-Level Memory for Task Oriented Dialogs ,Reddy et al,https://aclanthology.org/N19-1375/,https://github.com/DineshRaghu/multi-level-memory-network,MLM,NAACL,fully,2018
+Sequence-to-Sequence Learning for Task-oriented Dialogue with Dialogue State Representation ,Wen et al,http://ir.hit.edu.cn/~car/papers/coling18-hywen.pdf,,DSR,COLING,fully,2018
+Key-Value Retrieval Networks for Task-Oriented Dialogue ,Eric et al,https://www-nlp.stanford.edu/pubs/eric2017kvret.pdf,https://nlp.stanford.edu/blog/a-new-multi-turn-multi- domain-task-oriented-dialogue-dataset/ ,KVRet,ACL,fully,2017
+Latent Intention Dialogue Models,Wen et al,https://proceedings.mlr.press/v70/wen17a.html,https://github.com/shawnwun/NNDIAL ,LIDM,ICML,fully,2017
+Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access ,Dhingra et al,https://arxiv.org/abs/1609.00777,https://github.com/MiuLab/KB-InfoBot,KB-InfoBot,ACL,fully,2017
+LEARNING END-TO-END GOAL-ORIENTED DIALOG ,Bordes et al,https://arxiv.org/abs/1605.07683,,MemNN,ICLR,fully,2016
+A Probabilistic End-To-End Task-Oriented Dialog Model with Latent Belief States towards Semi-Supervised Learning ,Zhang et al,https://aclanthology.org/2020.emnlp-main.740/,https://github.com/thu-spmi/LABES,LABES-S2S,EMNLP,modularly,2020
+Attention over Parameters for Dialogue Systems ,Madotto et al,https://arxiv.org/abs/2001.01871,,AoP,NeurIPS,modularly,2020
+LAVA: Latent Action Spaces via Variational Auto-encoding for Dialogue Policy Optimization ,Lubis et al,https://aclanthology.org/2020.coling-main.41/,,LAVA,COLING,modularly,2020
+SUMBT+LaRL: Effective Multi-Domain End-to-End Neural Task-Oriented Dialog System ,Lee et al,https://arxiv.org/abs/2009.10447,,SUMBT+LaRL,IEEE,modularly,2020
+UniConv: A Unified Conversational Neural Architecture for Multi-domain Task-oriented Dialogues ,Le et al,https://virtual.2020.emnlp.org/paper_main.1012.html,https://github.com/henryhungle/UniConv,UniConv,EMNLP,modularly,2020
+A Modular Task-oriented Dialogue System Using a Neural Mixture-of-Experts ,Pei et al,https://arxiv.org/abs/1907.05346,,TokenMoE,WCIS,modularly,2019
+Flexibly-Structured Model for Task-Oriented Dialogues,Shu et al,https://aclanthology.org/W19-5922/,https://github.com/uber-research/FSDM,FSDM,SIGDIAL,modularly,2019
+Incremental Learning from Scratch for Task-Oriented Dialogue Systems,Wang et al,https://aclanthology.org/P19-1361.pdf,https://github.com/Leechikara/Incremental-Dialogue-System,IDS,ACL,modularly,2019
+Learning End-to-End Goal-Oriented Dialog with Maximal User Task Success and Minimal Human Agent Use, Rajendran et al,https://aclanthology.org/Q19-1024.pdf,https://github.com/IBM/modified-bAbI-dialog-tasks,-,TACL,modularly,2019
+MOSS: End-to-End Dialog System Framework with Modular Supervision ,Liang et al,https://ojs.aaai.org/index.php/AAAI/article/view/6349/6205,,Moss,AAAI,modularly,2019
+Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog Agents with Latent Variable Models ,Zhao et al,https://aclanthology.org/N19-1123.pdf,https://github.com/snakeztc/NeuralDialog-LaRL,LARL,NAACL,modularly,2019
+Structured Fusion Networks for Dialog,Mehri et al,https://aclanthology.org/W19-5921,,SFN+RL,SIGDIAL,modularly,2019
+Task-Oriented Dialog Systems that Consider Multiple Appropriate Responses under the Same Context,Zhang et al,https://arxiv.org/abs/1911.10484,https://github.com/thu-spmi/damd-multiwoz,DAMD,AAAI,modularly,2019
+Dialogue Learning with Human Teaching and Feedback in End-to-End Trainable Task-Oriented Dialogue Systems ,Liu et al,https://aclanthology.org/N18-1187/,,-,NAACL,modularly,2018
+End-to-End Learning of Task-Oriented Dialogs ,Liu and Lane,https://aclanthology.org/N18-4010/,,-,NAACL,modularly,2018
+Sequicity: Simplifying Task-oriented Dialogue Systems with Single Sequence-to-Sequence Architectures,Lei et al,https://aclanthology.org/P18-1133/,https://github.com/WING-NUS/sequicity,MD-Sequicity,ACL,modularly,2018
+A Copy-Augmented Sequence-to-Sequence Architecture Gives Good Performance on Task-Oriented Dialogue ,Eric and Manning,https://aclanthology.org/E17-2075/,,-,EACL,modularly,2017
+An End-to-End Trainable Neural Network Model with Belief Tracking for Task-Oriented Dialog ,Liu and Lane,https://www.isca-speech.org/archive_v0/Interspeech_2017/pdfs/1326.PDF,,-,InterSpeech,modularly,2017
+End-to-End Optimization of Task-Oriented Dialogue Model with Deep Reinforcement Learning,Liu et al,https://arxiv.org/abs/1711.10712,,-,Arxiv,modularly,2017
+End-to-End Task-Completion Neural Dialogue Systems ,Li et al,https://aclanthology.org/I17-1074.pdf,https://github.com/MiuLab/TC-Bot,-,IJCNLP,modularly,2017
+Generative Encoder-Decoder Models for Task-Oriented Spoken Dialog Systems with Chatting Capability,Zhao et al,https://aclanthology.org/W17-5505/,,-,SIGDIAL,modularly,2017
+Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning ,Williams et al,https://aclanthology.org/P17-1062/,,HCNs,ACL,modularly,2017
+A network- based end-to-end trainable task-oriented dialogue system,Wen et al,https://aclanthology.org/E17-1042.pdf,NDM,NDM,EACL,modularly,2016
+Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning,Zhao and Eskenazi,https://aclanthology.org/W16-3601/,https://github.com/snakeztc/NeuralDialog-DM,DRQN,SIGDIAL,modularly,2016
+A Preliminary Evaluation of ChatGPT for Zero-shot Dialogue Understanding,Wenbo Pan et al,https://api.semanticscholar.org/CorpusID:258049061,,-,ArXiv,pretrain,2023
+ChatGPT for Zero-shot Dialogue State Tracking: A Solution or an Opportunity?,Michael Heck et al,https://api.semanticscholar.org/CorpusID:259063822,,-,ArXiv,pretrain,2023
+Are Large Language Models All You Need for Task-Oriented Dialogue?,Vojtvech Hudevcek and Ondrej Dusek,https://api.semanticscholar.org/CorpusID:258108409,,-,SIGDIAL,pretrain,2023
+Autoregressive Entity Generation for End-to-End Task-Oriented Dialog,Huang et al,https://aclanthology.org/2022.coling-1.25.pdf,,ECO,COLING,pretrain,2022
+BORT: Back and Denoising Reconstruction for End-to-End Task-Oriented Dialog,Sun et al,https://aclanthology.org/2022.findings-naacl.166.pdf,https://github.com/jd-ai-research-nlp/bort,BORT,NAACL,pretrain,2022
+SPACE-3: Unified Dialog Model Pre-training for Task-Oriented Dialog Understanding and Generation,He et al,https://arxiv.org/pdf/2209.06664,https://github.com/alibabaresearch/damo-convai,SPACE3,SIGIR,pretrain,2022
+Task-Oriented Dialogue System as Natural Language Generation ,Wang et al,https://arxiv.org/pdf/2108.13679,https://github.com/victorwz/tod_as_nlg,SimpleToD-ACN,SIGIR,pretrain,2022
+Q-TOD: A Query-driven Task-oriented Dialogue System,Tian et al,https://arxiv.org/abs/2210.07564,https://github.com/PaddlePaddle/Knover/tree/ develop/projects/Q-TOD,Q-ToD,EMNLP,pretrain,2022
+[CASPI] Causal-aware Safe Policy Improvement for Task-oriented Dialogue,Ramachandran et al ,https://aclanthology.org/2022.acl-long.8.pdf,https://github.com/salesforce/CASPI,CASPI,ACL,pretrain,2021
+AuGPT: Auxiliary Tasks and Data Augmentation for End-To-End Dialogue with Pre-Trained Language Models ,Kulha_nek et al,https://aclanthology.org/2021.nlp4convai-1.19.pdf,https://github.com/ufal/augpt,AuGPT,EMNLP,pretrain,2021
+GALAXY: A Generative Pre-trained Model for Task-Oriented Dialog with Semi-Supervised Learning and Explicit Policy Injection ,He et al,https://ojs.aaai.org/index.php/AAAI/article/download/21320/version/19607/21069,https://github.com/siat-nlp/GALAXY,GALAXY,AAAI,pretrain,2021
+Multi-Task Pre-Training for Plug-and-Play Task-Oriented Dialogue System ,Su et al,https://aclanthology.org/2022.acl-long.319.pdf,https://github.com/awslabs/pptod,PPTOD,AAAI,pretrain,2021
+Improving End-to-End Task-Oriented Dialog System with A Simple Auxiliary Task,Lee,https://aclanthology.org/2021.findings-emnlp.112,,MTToD,Findings,pretrain,2021
+A Co-Interactive Transformer for Joint Slot Filling and Intent Detection,Libo Qin et al,https://doi.org/10.1109/ICASSP39728.2021.9414110,https://github. com/kangbrilliant/DCA-Net,DCANet,ICASSP,pretrain,2021
+A Simple Language Model for Task-Oriented Dialogue,Hosseini-Asl et al,https://proceedings.neurips.cc/paper/2020/file/e946209592563be0f01c844ab2170f0c-Paper.pdf,https://github.com/salesforce/simpletod,SimpleTOD,NeurIPS,pretrain,2020
+End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2,Ham et al,https://aclanthology.org/2020.acl-main.54.pdf,,NeuralPipeline,ACL,pretrain,2020
+End-to-End Trainable Non-Collaborative Dialog System ,Li et al,https://ojs.aaai.org/index.php/AAAI/article/view/6345/6201,https://gitlab.com/ucdavisnlp/antiscam,MISSA,AAAI,pretrain,2020
+MinTL: Minimalist Transfer Learning for Task-Oriented Dialogue Systems ,Lin et al,https://aclanthology.org/2020.emnlp-main.273.pdf,https://github.com/zlinao/MinTL,MINTL-BART,EMNLP,pretrain,2020
+Soloist : BuildingTask Bots at Scale with Transfer Learning and Machine Teaching,Peng et al,https://aclanthology.org/2021.tacl-1.49.pdf,https://aka.ms/soloist. ,SOLOIST,TACL,pretrain,2020
+UBAR: Towards Fully End-to-End Task-Oriented Dialog Systems with GPT-2,Yang et al,https://arxiv.org/pdf/2012.03539.pdf,https://github.com/TonyNemo/UBAR-MultiWOZ,UBAR,AAAI,pretrain,2020
+AGIF: An Adaptive Graph-Interactive Framework for Joint Multiple Intent Detection and Slot Filling,Libo Qin et al,https://aclanthology.org/2020.findings-emnlp.163,https://github.com/LooperXX/AGIF,AGIF,EMNLP,pretrain,2020
+Alternating Recurrent Dialog Model with Large-scale Pre-trained Language Models ,Wu et al,https://aclanthology.org/2021.eacl-main.110.pdf,https://github.com/qywu/ARDM ,ARDM,EACL,pretrain,2019
+"Hello, It's GPT-2 - How Can I Help You? Towards the Use of Pretrained Language Models for Task-Oriented Dialogue Systems",Budzianowski et al,https://aclanthology.org/D19-5602.pdf,,-,ACL,pretrain,2019

@@ -1,0 +1,15 @@
+Model,Time,Type,Link,Inform,Success,BLEU,Combined
+SFN+RL,2019,Modularly,,73.8,58.6,16.9,83
+DAMD,2019,Modularly,,76.3,60.4,16.6,85
+LAVA,2020,Modularly,,91.8,81.8,12,98.8
+SimpleToD,2020,Pretrain,,84.4,70.1,15,92.3
+MinTL-BART,2020,Pretrain,,84.9,74.9,17.9,97.8
+UBAR,2020,Pretrain,,95.4,80.7,17,105.1
+AuGPT,2021,Pretrain,,83.1,70.1,17.2,93.8
+SOLOIST,2021,Pretrain,,85.5,72.9,16.5,95.7
+MTToD,2021,Pretrain,,91,82.6,21.6,108.3
+PPTOD,2021,Pretrain,,89.2,79.4,18.6,102.9
+SimpleToD-ACN,2022,Pretrain,,85.8,72.1,15.5,94.5
+BORT,2022,Pretrain,,93.8,85.8,18.5,108.3
+GALAXY,2022,Pretrain,,94.4,85.3,20.5,110.4
+SPACE3,2022,Pretrain,,95.3,88,19.3,111

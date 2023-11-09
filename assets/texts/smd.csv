@@ -1,0 +1,19 @@
+Model,Time,Type,BLEU,Ent_F1,Sch_F1,Wea_F1,Nav_F1
+KVRet,2017,Triplet,13.2,48,62.9,53.3,44.5
+Mem2Seq,2018,Triplet,12.6,33.4,49.3,32.8,20
+GLMP,2019,Triplet,14.8,60,69.6,62.6,53
+BossNet,2019,Triplet,8.3,35.9,50.2,34.5,21.6
+KB-Transformer,2019,Triplet,13.9,37.1,51.2,48.2,23.3
+DDMN,2020,Triplet,17.7,55.6,65,58.7,47.2
+DFNet,2020,Triplet,14.4,62.7,73.1,57.6,57.9
+DSR,2018,Row,12.7,51.9,52.1,50.4,52
+MLM,2018,Row,15.6,55.5,67.4,54.8,45.1
+KB-retriever,2019,Row,13.9,53.7,55.6,52.2,54.5
+HM2Seq,2022,Row,14.6,63.1,73.9,64.4,56.2
+Fg2Seq,2020,Graph,16.8,61.1,73.3,57.4,56.1
+GraphDialog,2020,Graph,13.7,60.7,72.8,55.2,54.2
+GraphMemDialog,2021,Graph,18.8,64.5,75.9,62.3,56.3
+GPT2KE,2021,Graph,17.4,59.8,72.6,57.7,53.5
+COMET,2021,Graph,17.3,63.6,77.6,58.3,56
+DialoKG,2022,Graph,20,65.9,x,x ,x
+MAKER,2023,Graph,25.91,71.30,x,x,x

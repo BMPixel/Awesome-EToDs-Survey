@@ -1,0 +1,11 @@
+Model,Time,Type,Paperlink,CodeLink,BLEU,Ent_F1,Res_F1,Att_F1,Hot_F1
+Mem2Seq,2018,Triplet,,,6.6,21.6,22.4,22,21
+MLM,2018,Row,,,9.2,27.8,29.8,27.4,25.2
+DSR,2018,Row,,,9.1,30,33.4,28,27.1
+BossNet,2019,Triplet,,,5.7,25.3,26.2,24.8,23.4
+GLMP,2019,Triplet,,,6.9,32.4,38.4,24.4,28.1
+DDMN,2020,Triplet,,,12.4,31.4,30.6,32.9,30.6
+DFNet,2020,Triplet,,,9.4,35.1,40.9,28.1,30.6
+Fg2Seq,2020,Graph,,,13.5,36,40.4,41.7,30.9
+GraphMemDialog,2021,Graph,,,14.9,40.2,42.8,48.8,36.4
+MAKER,2023,Graph,,,18.77,54.72,x,x,x
