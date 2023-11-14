@@ -232,7 +232,8 @@ If you find this repository useful, please cite our paper:
 ```
 
 ## Project Maintainers & Contributors
-- [这里是作者信息]
+
+Pan (pixelwenbo@gmail.com) and Qin (lbqin@csu.edu.cn)
 
 
 <!-- ## Star History
