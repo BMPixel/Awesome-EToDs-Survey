@@ -126,17 +126,94 @@ Graph Representation in Fully EToD aims to enhance the contextualization of enti
 
 ## Modularly EToD on MultiWOZ2.0 and MultiWOZ2.1
 
-[绘制类似论文 Table 1 的表，数据可以从assets/texts/multiwoz20.csv 和 assets/texts/multiwoz21.csv转化方便]
+### MultiWOZ2.0
+
+| Model          | Year | Type       | Inform | Success | BLEU | Combined |
+|----------------|------|------------|--------|---------|------|----------|
+| SFN+RL         | 2019 | Modularly  | 73.8   | 58.6    | 16.9 | 83       |
+| DAMD           | 2019 | Modularly  | 76.3   | 60.4    | 16.6 | 85       |
+| LAVA           | 2020 | Modularly  | 91.8   | 81.8    | 12   | 98.8     |
+| SimpleToD      | 2020 | Pretrain   | 84.4   | 70.1    | 15   | 92.3     |
+| MinTL-BART     | 2020 | Pretrain   | 84.9   | 74.9    | 17.9 | 97.8     |
+| UBAR           | 2020 | Pretrain   | 95.4   | 80.7    | 17   | 105.1    |
+| AuGPT          | 2021 | Pretrain   | 83.1   | 70.1    | 17.2 | 93.8     |
+| SOLOIST        | 2021 | Pretrain   | 85.5   | 72.9    | 16.5 | 95.7     |
+| MTToD          | 2021 | Pretrain   | 91     | 82.6    | 21.6 | 108.3    |
+| PPTOD          | 2021 | Pretrain   | 89.2   | 79.4    | 18.6 | 102.9    |
+| SimpleToD-ACN  | 2022 | Pretrain   | 85.8   | 72.1    | 15.5 | 94.5     |
+| BORT           | 2022 | Pretrain   | 93.8   | 85.8    | 18.5 | 108.3    |
+| GALAXY         | 2022 | Pretrain   | 94.4   | 85.3    | 20     | 110.3    |
+
+### MultiWOZ2.1
+
+| Model          | Time | Type       | Inform | Success | BLEU | Combined |
+|----------------|------|------------|--------|---------|------|----------|
+| MD-Sequicity   | 2018 | Modularly  | 66.4   | 45.3    | 15.5 | 71.4     |
+| SFN+RL         | 2019 | Modularly  | 73.8   | 58.6    | 16.9 | 83       |
+| DAMD           | 2019 | Modularly  | 76.4   | 60.4    | 16.6 | 85       |
+| UniConv        | 2020 | Modularly  | 72.6   | 62.9    | 19.8 | 87.6     |
+| LABES-S2S      | 2020 | Modularly  | 78.1   | 67.1    | 18.1 | 90.7     |
+| SimpleToD      | 2020 | Pretrain   | 85     | 70.5    | 15.2 | 93       |
+| UBAR           | 2020 | Pretrain   | 95.7   | 81.8    | 16.5 | 105.3    |
+| AuGPT          | 2021 | Pretrain   | 83.5   | 67.3    | 17.2 | 92.6     |
+| SOLOIST        | 2021 | Pretrain   | 85.5   | 72.9    | 16.5 | 95.7     |
+| MTToD          | 2022 | Pretrain   | 91     | 82.1    | 21   | 107.5    |
+| PPTOD          | 2021 | Pretrain   | 87.1   | 79.1    | 19.2 | 102.3    |
+| GALAXY         | 2022 | Pretrain   | 95.3   | 86.2    | 20   | 110.8    |
+| SPACE3         | 2022 | Pretrain   | 95.3   | 88      | 19.3 | 111      |
+| BORT           | 2022 | Pretrain   | 93.8   | 85.8    | 18.5 | 108.3    |
 
 ## Modularly EToD on CamRest6762
 
-[绘制类似论文 Table 2 的表，数据assets/texts/camrest.csv]
+| Model          | Time | Match | Success | BLEU | Combined |
+|----------------|------|-------|---------|------|----------|
+| NDM            | 2016 | 90.4  | 83.2    | 21.2 | 108      |
+| MD-Sequicity   | 2018 | 92.7  | 85.4    | 25.3 | 114.35   |
+| FSDM           | 2019 | 93.5  | 86.2    | 25.8 | 115.65   |
+| MOSS           | 2019 | 95.1  | 86      | 25.9 | 116.45   |
+| LABES-S2S      | 2020 | 96.4  | 82.3    | 25.6 | 114.95   |
+| ARDM           | 2021 | -     | 86.2    | 25.4 | -        |
+| SOLOIST        | 2020 | -     | 87.1    | 25.5 | -        |
+| BORT           | 2022 | -     | 89.7    | 25.9 | -        |
+| SPACE3         | 2022 | 97.7  | 88.2    | 23.7 | 116.67   |
 
 ## Fully EToD on SMD
-[绘制类似论文 Table 4 的表，数据assets/texts/smd.csv]
+
+| Model          | Time | Type   | BLEU | Ent_F1 | Sch_F1 | Wea_F1 | Nav_F1 |
+|----------------|------|--------|------|--------|--------|--------|--------|
+| KVRet          | 2017 | Triplet| 13.2 | 48     | 62.9   | 53.3   | 44.5   |
+| Mem2Seq        | 2018 | Triplet| 12.6 | 33.4   | 49.3   | 32.8   | 20     |
+| GLMP           | 2019 | Triplet| 14.8 | 60     | 69.6   | 62.6   | 53     |
+| BossNet        | 2019 | Triplet| 8.3  | 35.9   | 50.2   | 34.5   | 21.6   |
+| KB-Transformer | 2019 | Triplet| 13.9 | 37.1   | 51.2   | 48.2   | 23.3   |
+| DDMN           | 2020 | Triplet| 17.7 | 55.6   | 65     | 58.7   | 47.2   |
+| DFNet          | 2020 | Triplet| 14.4 | 62.7   | 73.1   | 57.6   | 57.9   |
+| DSR            | 2018 | Row    | 12.7 | 51.9   | 52.1   | 50.4   | 52     |
+| MLM            | 2018 | Row    | 15.6 | 55.5   | 67.4   | 54.8   | 45.1   |
+| KB-retriever   | 2019 | Row    | 13.9 | 53.7   | 55.6   | 52.2   | 54.5   |
+| HM2Seq         | 2022 | Row    | 14.6 | 63.1   | 73.9   | 64.4   | 56.2   |
+| Fg2Seq         | 2020 | Graph  | 16.8 | 61.1   | 73.3   | 57.4   | 56.1   |
+| GraphDialog    | 2020 | Graph  | 13.7 | 60.7   | 72.8   | 55.2   | 54.2   |
+| GraphMemDialog | 2021 | Graph  | 18.8 | 64.5   | 75.9   | 62.3   | 56.3   |
+| GPT2KE         | 2021 | Graph  | 17.4 | 59.8   | 72.6   | 57.7   | 53.5   |
+| COMET          | 2021 | Graph  | 17.3 | 63.6   | 77.6   | 58.3   | 56     |
+| DialoKG        | 2022 | Graph  | 20   | 65.9   | x      | x      | x      |
+| MAKER          | 2023 | Graph  | 25.91| 71.30  | x      | x      | x      |
 
 ## Fully EToD on MultiWOZ2.1
-[绘制类似论文 Table 4 的表，数据assets/texts/multiwoz21e2e.csv]
+
+| Model          | Time | Type   | BLEU | Ent_F1 | Res_F1 | Att_F1 | Hot_F1 |
+|----------------|------|--------|------|--------|--------|--------|--------|
+| Mem2Seq        | 2018 | Triplet| 6.6  | 21.6   | 22.4   | 22     | 21     |
+| MLM            | 2018 | Row    | 9.2  | 27.8   | 29.8   | 27.4   | 25.2   |
+| DSR            | 2018 | Row    | 9.1  | 30     | 33.4   | 28     | 27.1   |
+| BossNet        | 2019 | Triplet| 5.7  | 25.3   | 26.2   | 24.8   | 23.4   |
+| GLMP           | 2019 | Triplet| 6.9  | 32.4   | 38.4   | 24.4   | 28.1   |
+| DDMN           | 2020 | Triplet| 12.4 | 31.4   | 30.6   | 32.9   | 30.6   |
+| DFNet          | 2020 | Triplet| 9.4  | 35.1   | 40.9   | 28.1   | 30.6   |
+| Fg2Seq         | 2020 | Graph  | 13.5 | 36     | 40.4   | 41.7   | 30.9   |
+| GraphMemDialog | 2021 | Graph  | 14.9 | 40.2   | 42.8   | 48.8   | 36.4   |
+| MAKER          | 2023 | Graph  | 18.77| 54.72  | x      | x      | x      |
 
 ## Citation
 If you find this repository useful, please cite our paper:
