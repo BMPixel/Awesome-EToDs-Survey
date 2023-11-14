@@ -219,7 +219,16 @@ Graph Representation in Fully EToD aims to enhance the contextualization of enti
 If you find this repository useful, please cite our paper:
 
 ```
-[这里是引用信息]
+@inproceedings{qin2023end,
+  title = {End-to-end Task-oriented Dialogue: A Survey of Tasks, Methods, and Future Directions},
+  booktitle = {Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  author = {Qin, Libo and Pan, Wenbo and Chen, Qiguang and Liao, Lizi and Yu, Zhou and Zhang, Yue and Che, Wanxiang and Li, Min},
+  year = {2023},
+  publisher = {Association for Computational Linguistics},
+  doi = {To be determined},
+  url = {To be determined},
+  urldate = {2023-11-14}
+}
 ```
 
 ## Project Maintainers & Contributors
