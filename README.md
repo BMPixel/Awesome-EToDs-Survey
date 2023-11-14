@@ -1,4 +1,4 @@
-# End-to-end-ToD-Papers
+# Awesome-EToDs-Survey
 
 🔥 **Collection of papers, benchmarks and newest trends in the domain of End-to-end ToDs**
 
