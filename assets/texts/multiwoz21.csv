@@ -11,5 +11,5 @@ SOLOIST,2021,Pretrain,,,85.5,72.9,16.5,95.7
 MTToD,2022,Pretrain,,,91,82.1,21,107.5
 PPTOD,2021,Pretrain,,,87.1,79.1,19.2,102.3
 GALAXY,2022,Pretrain,,,95.3,86.2,20,110.8
-SPACE3,2022,Pretrain,He et al., 2022a,,95.3,88.0,19.3,111.0
-BORT,2022,Pretrain,Sun et al., 2022,,93.8,85.8,18.5,108.3
+SPACE3,2022,Pretrain,He et al., 2022a,95.3,88.0,19.3,111.0
+BORT,2022,Pretrain,Sun et al., 2022,93.8,85.8,18.5,108.3
