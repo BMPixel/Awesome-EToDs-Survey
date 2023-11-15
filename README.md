@@ -94,9 +94,9 @@ Entity Triplet Representation in Fully EToD stores knowledge base entities in a 
 - [2021] **Intention Reasoning Network for Multi-Domain End-to-end Task-Oriented Dialogue.** *Ma et al EMNLP.* [[paper]](https://aclanthology.org/2021.emnlp-main.174.pdf)
 - [2021] **Intention Reasoning Network for Multi-Domain End-to-end Task-Oriented Dialogue.** *Ma et al EMNLP.* [[paper]](https://aclanthology.org/2021.emnlp-main.174)
 - [2020] **Dual Dynamic Memory Network for End-to-End Multi-turn Task-oriented Dialog Systems .** *Wang et al COLING.* [[paper]](https://aclanthology.org/2020.coling-main.362.pdf) [[code]](https://github.com/siat-nlp/ddmn)
-- [2020] **Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog.** *Qin et al ACL.* [[paper]](https://aclanthology.org/2020.acl-main.565.pdf) [[code]](https://github.com/LooperXX/DF-Net)
+- [2020] **Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog.** *Qin et al ACL.* [[paper]](https://aclanthology.org/2020.acl-main.565.pdf) [[code]](https://github.com/Looper--/DF-Net)
 - [2019] **Disentangling Language and Knowledge in Task-Oriented Dialogs.** *Raghu et al NAACL.* [[paper]](https://aclanthology.org/N19-1126/) [[code]](https://github.com/dair-iitd/BossNet)
-- [2019] **Global-to-local Memory Pointer Networks for Task-Oriented Dialogue.** *Wu et al ICLR.* [[paper]](https://arxiv.org/abs/1901.04713) [[code]](https://github.com/jasonwu0731/GLMP)
+- [2019] **Global-to-local Memory Pointer Networks for Task-Oriented Dialogue.** *Wu et al ICLR.* [[paper]](https://ar-iv.org/abs/1901.04713) [[code]](https://github.com/jasonwu0731/GLMP)
 - [2019] **A Working Memory Model for Task-oriented Dialog Response Generation.** *Chen tal ACL.* [[paper]](https://aclanthology.org/P19-1258)
 - [2018] **Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems .** *Madotto et al ACL.* [[paper]](https://aclanthology.org/P18-1136/) [[code]](https://github.com/HLTCHKUST/Mem2Seq)
 
@@ -109,17 +109,17 @@ Row-level Representation in Fully EToD addresses the limitations of triplet repr
 - [2019] **Entity-Consistent End-to-end Task-Oriented Dialogue System with KB Retriever .** *Qin et al EMNLP.* [[paper]](https://aclanthology.org/D19-1013.pdf) [[code]](https://github.com/yizhen20133868/Retriever-Dialogue)
 - [2018] **Multi-Level Memory for Task Oriented Dialogs .** *Reddy et al NAACL.* [[paper]](https://aclanthology.org/N19-1375/) [[code]](https://github.com/DineshRaghu/multi-level-memory-network)
 - [2018] **Sequence-to-Sequence Learning for Task-oriented Dialogue with Dialogue State Representation .** *Wen et al COLING.* [[paper]](http://ir.hit.edu.cn/~car/papers/coling18-hywen.pdf)
-- [2017] **Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access .** *Dhingra et al ACL.* [[paper]](https://arxiv.org/abs/1609.00777) [[code]](https://github.com/MiuLab/KB-InfoBot)
+- [2017] **Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access .** *Dhingra et al ACL.* [[paper]](https://ar-iv.org/abs/1609.00777) [[code]](https://github.com/MiuLab/KB-InfoBot)
 
 ### 2.3 Graph Representation
 
-Graph Representation in Fully EToD aims to enhance the contextualization of entity embeddings within a knowledge base by densely linking entities to related slot titles in the dialogue history, utilizing graph-based reasoning or attention mechanisms for a more integrated understanding
+Graph Representation in Fully EToD aims to enhance the conte-tualization of entity embeddings within a knowledge base by densely linking entities to related slot titles in the dialogue history, utilizing graph-based reasoning or attention mechanisms for a more integrated understanding
 
-- [2023] **Multi-Grained Knowledge Retrieval for End-to-End Task-Oriented Dialog.** *Wan et al Arxiv.* [[paper]](https://arxiv.org/pdf/2305.10149.pdf) [[code]](https://github.com/18907305772/MAKER)
+- [2023] **Multi-Grained Knowledge Retrieval for End-to-End Task-Oriented Dialog.** *Wan et al Ar-iv.* [[paper]](https://ar-iv.org/pdf/2305.10149.pdf) [[code]](https://github.com/18907305772/MAKER)
 - [2022] **DialoKG: Knowledge-Structure Aware Task-Oriented Dialogue Generation.** *Rony et al NAACL.* [[paper]](https://aclanthology.org/2022.findings-naacl.195.pdf) [[code]](https://github.com/rashad101/DialoKG )
-- [2022] **GraphMemDialog: Optimizing End-to-End Task-Oriented Dialog Systems Using Graph Memory Networks.** *Wu et al AAAI.* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/21403/21152)
-- [2020] **Contextualize Knowledge Bases with Transformer for End-to-end Task-Oriented Dialogue Systems .** *Gou et al EMNLP.* [[paper]](https://aclanthology.org/2021.emnlp-main.353.pdf)
-- [2020] **FG2SEQ: EFFECTIVELY ENCODING KNOWLEDGE FOR END-TO-END TASK-ORIENTED DIALOG .** *He et al ICASSP .* [[paper]](https://ieeexplore.ieee.org/document/9053667) [[code]](https://github.com/scoyer/FG2Seq)
+- [2022] **GraphMemDialog: Optimizing End-to-End Task-Oriented Dialog Systems Using Graph Memory Networks.** *Wu et al AAAI.* [[paper]](https://ojs.aaai.org/inde-.php/AAAI/article/view/21403/21152)
+- [2020] **Conte-tualize Knowledge Bases with Transformer for End-to-end Task-Oriented Dialogue Systems .** *Gou et al EMNLP.* [[paper]](https://aclanthology.org/2021.emnlp-main.353.pdf)
+- [2020] **FG2SEQ: EFFECTIVELY ENCODING KNOWLEDGE FOR END-TO-END TASK-ORIENTED DIALOG .** *He et al ICASSP .* [[paper]](https://ieee-plore.ieee.org/document/9053667) [[code]](https://github.com/scoyer/FG2Seq)
 - [2020] **GraphDialog: Integrating Graph Knowledge into End-to-End Task-Oriented Dialogue Systems .** *Yang et al EMNLP.* [[paper]](https://aclanthology.org/2020.emnlp-main.147.pdf) [[code]](https://github.com/shiquanyang/GraphDialog)
 
 ## Benchmark
@@ -142,7 +142,7 @@ Graph Representation in Fully EToD aims to enhance the contextualization of enti
 | PPTOD          | 2021 | Pretrain   | 89.2   | 79.4    | 18.6 | 102.9    |
 | SimpleToD-ACN  | 2022 | Pretrain   | 85.8   | 72.1    | 15.5 | 94.5     |
 | BORT           | 2022 | Pretrain   | 93.8   | 85.8    | 18.5 | 108.3    |
-| GALAXY         | 2022 | Pretrain   | 94.4   | 85.3    | 20     | 110.3    |
+| GALA-Y         | 2022 | Pretrain   | 94.4   | 85.3    | 20     | 110.3    |
 
 ### MultiWOZ2.1
 
@@ -159,7 +159,7 @@ Graph Representation in Fully EToD aims to enhance the contextualization of enti
 | SOLOIST        | 2021 | Pretrain   | 85.5   | 72.9    | 16.5 | 95.7     |
 | MTToD          | 2022 | Pretrain   | 91     | 82.1    | 21   | 107.5    |
 | PPTOD          | 2021 | Pretrain   | 87.1   | 79.1    | 19.2 | 102.3    |
-| GALAXY         | 2022 | Pretrain   | 95.3   | 86.2    | 20   | 110.8    |
+| GALA-Y         | 2022 | Pretrain   | 95.3   | 86.2    | 20   | 110.8    |
 | SPACE3         | 2022 | Pretrain   | 95.3   | 88      | 19.3 | 111      |
 | BORT           | 2022 | Pretrain   | 93.8   | 85.8    | 18.5 | 108.3    |
 
@@ -197,8 +197,8 @@ Graph Representation in Fully EToD aims to enhance the contextualization of enti
 | GraphMemDialog | 2021 | Graph  | 18.8 | 64.5   | 75.9   | 62.3   | 56.3   |
 | GPT2KE         | 2021 | Graph  | 17.4 | 59.8   | 72.6   | 57.7   | 53.5   |
 | COMET          | 2021 | Graph  | 17.3 | 63.6   | 77.6   | 58.3   | 56     |
-| DialoKG        | 2022 | Graph  | 20   | 65.9   | x      | x      | x      |
-| MAKER          | 2023 | Graph  | 25.91| 71.30  | x      | x      | x      |
+| DialoKG        | 2022 | Graph  | 20   | 65.9   | -      | -      | -      |
+| MAKER          | 2023 | Graph  | 25.91| 71.30  | -      | -      | -      |
 
 ## Fully EToD on MultiWOZ2.1
 
@@ -213,7 +213,7 @@ Graph Representation in Fully EToD aims to enhance the contextualization of enti
 | DFNet          | 2020 | Triplet| 9.4  | 35.1   | 40.9   | 28.1   | 30.6   |
 | Fg2Seq         | 2020 | Graph  | 13.5 | 36     | 40.4   | 41.7   | 30.9   |
 | GraphMemDialog | 2021 | Graph  | 14.9 | 40.2   | 42.8   | 48.8   | 36.4   |
-| MAKER          | 2023 | Graph  | 18.77| 54.72  | x      | x      | x      |
+| MAKER          | 2023 | Graph  | 18.77| 54.72  | -      | -      | -      |
 
 ## Citation
 If you find this repository useful, please cite our paper:
