@@ -36,7 +36,7 @@ Modularly EToD without Pretrained Language Models (PLMs) primarily focuses on op
 - [2019] **A Modular Task-oriented Dialogue System Using a Neural Mixture-of-Experts .** *Pei et al WCIS.* [[paper]](https://arxiv.org/abs/1907.05346)
 - [2019] **Flexibly-Structured Model for Task-Oriented Dialogues.** *Shu et al SIGDIAL.* [[paper]](https://aclanthology.org/W19-5922/) [[code]](https://github.com/uber-research/FSDM)
 - [2019] **Incremental Learning from Scratch for Task-Oriented Dialogue Systems.** *Wang et al ACL.* [[paper]](https://aclanthology.org/P19-1361.pdf) [[code]](https://github.com/Leechikara/Incremental-Dialogue-System)
-- [2019] **Learning End-to-End Goal-Oriented Dialog with Maximal User Task Success and Minimal Human Agent Use.** * Rajendran et al TACL.* [[paper]](https://aclanthology.org/Q19-1024.pdf) [[code]](https://github.com/IBM/modified-bAbI-dialog-tasks)
+- [2019] **Learning End-to-End Goal-Oriented Dialog with Maximal User Task Success and Minimal Human Agent Use.** *Rajendran et al TACL.* [[paper]](https://aclanthology.org/Q19-1024.pdf) [[code]](https://github.com/IBM/modified-bAbI-dialog-tasks)
 - [2019] **MOSS: End-to-End Dialog System Framework with Modular Supervision .** *Liang et al AAAI.* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6349/6205)
 - [2019] **Rethinking Action Spaces for Reinforcement Learning in End-to-end Dialog Agents with Latent Variable Models .** *Zhao et al NAACL.* [[paper]](https://aclanthology.org/N19-1123.pdf) [[code]](https://github.com/snakeztc/NeuralDialog-LaRL)
 - [2019] **Structured Fusion Networks for Dialog.** *Mehri et al SIGDIAL.* [[paper]](https://aclanthology.org/W19-5921)
@@ -70,7 +70,7 @@ Modularly EToD with PLM incorporates Pretrained Language Models using either dec
 - [2021] **GALAXY: A Generative Pre-trained Model for Task-Oriented Dialog with Semi-Supervised Learning and Explicit Policy Injection .** *He et al AAAI.* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/21320/version/19607/21069) [[code]](https://github.com/siat-nlp/GALAXY)
 - [2021] **Multi-Task Pre-Training for Plug-and-Play Task-Oriented Dialogue System .** *Su et al AAAI.* [[paper]](https://aclanthology.org/2022.acl-long.319.pdf) [[code]](https://github.com/awslabs/pptod)
 - [2021] **Improving End-to-End Task-Oriented Dialog System with A Simple Auxiliary Task.** *Lee Findings.* [[paper]](https://aclanthology.org/2021.findings-emnlp.112)
-- [2021] **A Co-Interactive Transformer for Joint Slot Filling and Intent Detection.** *Qin et al ICASSP.* [[paper]](https://doi.org/10.1109/ICASSP39728.2021.9414110) [[code]](https://github. com/kangbrilliant/DCA-Net)
+- [2021] **A Co-Interactive Transformer for Joint Slot Filling and Intent Detection.** *Qin et al ICASSP.* [[paper]](https://doi.org/10.1109/ICASSP39728.2021.9414110) [[code]](https://github.com/kangbrilliant/DCA-Net)
 - [2020] **A Simple Language Model for Task-Oriented Dialogue.** *Hosseini-Asl et al NeurIPS.* [[paper]](https://proceedings.neurips.cc/paper/2020/file/e946209592563be0f01c844ab2170f0c-Paper.pdf) [[code]](https://github.com/salesforce/simpletod)
 - [2020] **End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2.** *Ham et al ACL.* [[paper]](https://aclanthology.org/2020.acl-main.54.pdf)
 - [2020] **End-to-End Trainable Non-Collaborative Dialog System .** *Li et al AAAI.* [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/6345/6201) [[code]](https://gitlab.com/ucdavisnlp/antiscam)
@@ -91,7 +91,6 @@ Fully EToD systems incorporate knowledge bases directly, using neural networks t
 
 Entity Triplet Representation in Fully EToD stores knowledge base entities in a triplet format (subject, relation, object), which is summed up through word embeddings, offering a widely used method for representing knowledge base entities
 
-- [2021] **Intention Reasoning Network for Multi-Domain End-to-end Task-Oriented Dialogue.** *Ma et al EMNLP.* [[paper]](https://aclanthology.org/2021.emnlp-main.174.pdf)
 - [2021] **Intention Reasoning Network for Multi-Domain End-to-end Task-Oriented Dialogue.** *Ma et al EMNLP.* [[paper]](https://aclanthology.org/2021.emnlp-main.174)
 - [2020] **Dual Dynamic Memory Network for End-to-End Multi-turn Task-oriented Dialog Systems .** *Wang et al COLING.* [[paper]](https://aclanthology.org/2020.coling-main.362.pdf) [[code]](https://github.com/siat-nlp/ddmn)
 - [2020] **Dynamic Fusion Network for Multi-Domain End-to-end Task-Oriented Dialog.** *Qin et al ACL.* [[paper]](https://aclanthology.org/2020.acl-main.565.pdf) [[code]](https://github.com/Looper--/DF-Net)
@@ -202,7 +201,7 @@ Graph Representation in Fully EToD aims to enhance the conte-tualization of enti
 
 ## Fully EToD on MultiWOZ2.1
 
-| Model          | Time | Type   | BLEU | Ent_F1 | Res_F1 | Att_F1 | Hot_F1 |
+| Model          | Time | KB Type   | BLEU | Ent_F1 | Res_F1 | Att_F1 | Hot_F1 |
 |----------------|------|--------|------|--------|--------|--------|--------|
 | Mem2Seq        | 2018 | Triplet| 6.6  | 21.6   | 22.4   | 22     | 21     |
 | MLM            | 2018 | Row    | 9.2  | 27.8   | 29.8   | 27.4   | 25.2   |
