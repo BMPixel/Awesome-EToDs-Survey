@@ -8,11 +8,11 @@
 
 ## Intro: What is the End-to-end ToDs (EToDs)?
 
-In contrast to traditional pipelined task-oriented dialogue systems(ToDs), EToDs are able to directly map user utterances to system actions without any intermediate representations.  EToDs are usually trained in an end-to-end manner, which means that the model is trained to directly map user utterances to system actions without any intermediate representations. 
+In contrast to traditional pipelined task-oriented dialogue (ToDs) systems, EToDs are able to directly map user utterances to system actions without any intermediate representations.  EToDs are usually trained in an end-to-end manner, which means that the model is trained to directly map user utterances to system actions without any intermediate representations. 
 
 In this repo, we further categorize EToDs into three types, as shown in the following figure.
 
-- Modularly end-to-end task-oriented dialogue with out pretraining models
+- Modularly end-to-end task-oriented dialogue without pretraining models
 - Modularly end-to-end task-oriented dialogue with pretraining models
 - Fully end-to-end task-oriented dialogue
 
