@@ -1,6 +1,7 @@
 # Awesome-EToDs-Survey
 
-🔥 **Collection of papers, benchmarks and newest trends in the domain of End-to-end ToDs**
+🔥 **Collection of papers, benchmarks and newest trends in the domain of End-to-end ToDs** [[ArXiv]](https://arxiv.org/abs/2311.09008)
+
 
 🌟 **Any contributions via PRs, issues, emails or other methods are greatly appreciated.**
 
@@ -218,15 +219,13 @@ Graph Representation in Fully EToD aims to enhance the conte-tualization of enti
 If you find this repository useful, please cite our paper:
 
 ```
-@inproceedings{qin2023end,
-  title = {End-to-end Task-oriented Dialogue: A Survey of Tasks, Methods, and Future Directions},
-  booktitle = {Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  author = {Qin, Libo and Pan, Wenbo and Chen, Qiguang and Liao, Lizi and Yu, Zhou and Zhang, Yue and Che, Wanxiang and Li, Min},
-  year = {2023},
-  publisher = {Association for Computational Linguistics},
-  doi = {To be determined},
-  url = {To be determined},
-  urldate = {2023-11-14}
+@misc{qin2023endtoend,
+      title={End-to-end Task-oriented Dialogue: A Survey of Tasks, Methods, and Future Directions}, 
+      author={Libo Qin and Wenbo Pan and Qiguang Chen and Lizi Liao and Zhou Yu and Yue Zhang and Wanxiang Che and Min Li},
+      year={2023},
+      eprint={2311.09008},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
 }
 ```
 
